@@ -1,3 +1,3 @@
 # Notes for ethical hacking
 
-Ethical hacking involves legally breaking into computers and devices to test an organization’s defenses. It is performed by cybersecurity professionals, known as white-hat hackers, who use the same techniques as malicious hackers but with permission. The goal is to identify vulnerabilities, report them, and help fix them before they can be exploited. Key areas include network scanning, password cracking, malware analysis, and vulnerability assessment. Ethical hacking plays a crucial role in strengthening cybersecurity and protecting sensitive data.
+wjdnqiend
